@@ -2,6 +2,9 @@
 body {
     background: rgb(34,195,48);
     background: linear-gradient(142deg, rgba(34,195,48,1) 0%, rgba(52,44,38,1) 100%);
+
+   color: red;
+
 }
 
 .color-primario {
