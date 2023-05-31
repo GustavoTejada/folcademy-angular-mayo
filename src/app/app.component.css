@@ -1,0 +1,27 @@
+
+
+.input-group{
+    width: 350px;
+}
+
+nav{
+    background-color: #191B40;
+    
+}
+
+.nav-link {
+    color: white;
+}
+
+.card-body{
+    background-color: #0a0b1c;
+}
+
+.col {
+    justify-content: center;
+    display: flex;
+}
+
+.card {
+    width: 300px;
+}
